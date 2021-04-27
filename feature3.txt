@@ -1,3 +1,7 @@
 Added for to validate rebase
 one more commit
+<<<<<<< HEAD
 added third line from master
+=======
+added line from feature3
+>>>>>>> new commit - f9
